@@ -1,0 +1,4 @@
+PageObjects\HomePageObjects.class
+PageObjects\SearchPageObjects.class
+E2EProject\Bproperty\App.class
+E2EProject\Bproperty\base.class

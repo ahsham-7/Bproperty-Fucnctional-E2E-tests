@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T13:11:54Z" name="Suite" finished-at="2023-05-22T13:13:09Z" duration-ms="74785">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T13:11:54Z" name="Test" finished-at="2023-05-22T13:13:09Z" duration-ms="74785">
+      <class name="E2EProject.Bproperty.SearchPage">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:11:54Z" name="BeforeTest" finished-at="2023-05-22T18:12:01Z" duration-ms="6391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase1()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:01Z" name="TestCase1" finished-at="2023-05-22T18:12:01Z" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:01Z" name="After" finished-at="2023-05-22T18:12:02Z" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:02Z" name="BeforeTest" finished-at="2023-05-22T18:12:08Z" duration-ms="6180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase10()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:08Z" name="TestCase10" finished-at="2023-05-22T18:12:11Z" duration-ms="2723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase10 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:11Z" name="After" finished-at="2023-05-22T18:12:11Z" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:11Z" name="BeforeTest" finished-at="2023-05-22T18:12:17Z" duration-ms="6369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase2()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:17Z" name="TestCase2" finished-at="2023-05-22T18:12:19Z" duration-ms="1566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:19Z" name="After" finished-at="2023-05-22T18:12:19Z" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:19Z" name="BeforeTest" finished-at="2023-05-22T18:12:25Z" duration-ms="6120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase3()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:25Z" name="TestCase3" finished-at="2023-05-22T18:12:26Z" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:26Z" name="After" finished-at="2023-05-22T18:12:26Z" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:26Z" name="BeforeTest" finished-at="2023-05-22T18:12:32Z" duration-ms="5760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase4()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:32Z" name="TestCase4" finished-at="2023-05-22T18:12:32Z" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase4 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:32Z" name="After" finished-at="2023-05-22T18:12:32Z" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:32Z" name="BeforeTest" finished-at="2023-05-22T18:12:38Z" duration-ms="5821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase5()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:38Z" name="TestCase5" finished-at="2023-05-22T18:12:38Z" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase5 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:38Z" name="After" finished-at="2023-05-22T18:12:39Z" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:39Z" name="BeforeTest" finished-at="2023-05-22T18:12:45Z" duration-ms="6822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase6()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:45Z" name="TestCase6" finished-at="2023-05-22T18:12:46Z" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase6 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:46Z" name="After" finished-at="2023-05-22T18:12:46Z" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:46Z" name="BeforeTest" finished-at="2023-05-22T18:12:52Z" duration-ms="6036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase7()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:52Z" name="TestCase7" finished-at="2023-05-22T18:12:52Z" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase7 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:52Z" name="After" finished-at="2023-05-22T18:12:53Z" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:53Z" name="BeforeTest" finished-at="2023-05-22T18:12:59Z" duration-ms="6373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase8()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:59Z" name="TestCase8" finished-at="2023-05-22T18:12:59Z" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase8 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:12:59Z" name="After" finished-at="2023-05-22T18:13:00Z" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:13:00Z" name="BeforeTest" finished-at="2023-05-22T18:13:05Z" duration-ms="5761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="TestCase9()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:13:05Z" name="TestCase9" finished-at="2023-05-22T18:13:09Z" duration-ms="3492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase9 -->
+        <test-method is-config="true" signature="After()[pri:0, instance:E2EProject.Bproperty.SearchPage@1ed4ae0f]" started-at="2023-05-22T18:13:09Z" name="After" finished-at="2023-05-22T18:13:09Z" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- After -->
+      </class> <!-- E2EProject.Bproperty.SearchPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
